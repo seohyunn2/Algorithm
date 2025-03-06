@@ -1,4 +1,4 @@
-package urekaStudy;
+package Baekjoon;
 
 import java.util.Scanner;
 

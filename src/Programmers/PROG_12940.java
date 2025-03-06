@@ -1,4 +1,4 @@
-package urekaStudy;
+package Programmers;
 
 public class PROG_12940 {
     public int[] solution(int n, int m) {

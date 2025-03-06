@@ -1,4 +1,4 @@
-package urekaStudy;
+package Baekjoon;
 import java.util.Scanner;
 public class BOJ_1475 {
     static int input, max, maxIdx, six, nine;

@@ -1,4 +1,4 @@
-package urekaStudy;
+package Programmers;
 
 import java.util.*;
 
