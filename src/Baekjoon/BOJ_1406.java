@@ -14,6 +14,8 @@ public class BOJ_1406 {
         for(int i = 0; i < line.length();i++) {
             ll.add(line.charAt(i));
         }
+        // 위 반복문을 이렇게 써도 될듯
+//        ListIterator<Character> cursor = ll.listIterator(ll.size());
 
         ListIterator<Character> iter = ll.listIterator();
         // 명령어 개수 입력받기
