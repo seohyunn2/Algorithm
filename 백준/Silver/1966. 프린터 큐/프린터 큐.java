@@ -54,9 +54,9 @@ public class Main {
                     continue;
                 }
 
-                // front 원소가 가장 큰 원소였으므로 해당 원소는 출력해야하는 문서다.
+                // front 원소가 가장 큰 원소 -> 출력
                 count++;
-                if(front[0] == m) {	// 찾고자 하는 문서라면 해당 테스트케이스 종료
+                if(front[0] == m) {	
                     break;
                 }
 
