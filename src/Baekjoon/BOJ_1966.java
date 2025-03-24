@@ -45,13 +45,13 @@ public class BOJ_1966 {
                             q.offer(q.poll());
                         }
 
-                        // front원소가 가장 큰 원소가 아니였으므로 false를 하고 탐색을 마침
+                        // front원소가 가장 큰 원소가 아님 -> false를 하고 탐색을 마침
                         isMax = false;
                         break;
                     }
                 }
 
-                // front 원소가 가장 큰 원소가 아니였으므로 다음 반복문으로 넘어감
+                // front 원소가 가장 큰 원소가 아님 -> 넘어감
                 if(!isMax) {
                     continue;
                 }
