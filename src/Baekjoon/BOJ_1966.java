@@ -58,7 +58,7 @@ public class BOJ_1966 {
 
                 // front 원소가 가장 큰 원소 -> 출력
                 count++;
-                if(front[0] == m) {	// 찾고자 하는 문서 -> 테스트케이스 종료
+                if(front[0] == m) {
                     break;
                 }
 

@@ -43,6 +43,5 @@ public class BOJ_2346 {
         }
         bw.flush();
         bw.close();
-
     }
 }
